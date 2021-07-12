@@ -1,0 +1,17 @@
+{
+    "sales_order": {
+        "column": {
+            "order_note": true
+        }
+    },
+    "quote": {
+        "column": {
+            "order_note": true
+        }
+    },
+    "quote_item": {
+        "column": {
+            "internal_order_note": true
+        }
+    }
+}

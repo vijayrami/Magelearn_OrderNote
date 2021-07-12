@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © Scriptlodge. All rights reserved.
+ * See LICENSE.txt for license details.
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+    <preference for="Magelearn\OrderNote\Api\Data\OrderNoteInterface"
+                type="Magelearn\OrderNote\Model\Data\OrderNote" />
+    <preference for="Magelearn\OrderNote\Api\OrderNoteManagementInterface"
+                type="Magelearn\OrderNote\Model\OrderNoteManagement" />
+    <preference for="Magelearn\OrderNote\Api\GuestOrderNoteManagementInterface"
+                type="Magelearn\OrderNote\Model\GuestOrderNoteManagement" />
+</config>
