@@ -2,6 +2,16 @@
 
 ### Add Order note textarea field to Magento one step checkout and Add/edit note from admin with AJAX
 
+### Features
+
+- Add new field (textarea) in checkout.
+- Add custom validation (text length) for this new field.
+- Add new column in sales order grid page at admin.
+- Display this note at sales order view page info at admin.
+- give option to Add/edit note from admin.
+- Save note with AJAX from admin.
+- On Front end sales order view page display note to customer.
+
 [![Checkout.png](https://i.postimg.cc/5tK8t8SH/Checkout.png)](https://postimg.cc/CZDRPBtY)
 
 [![Checkout.png](https://i.postimg.cc/SszVFZbQ/Checkout.png)](https://postimg.cc/62tCCfQF)
