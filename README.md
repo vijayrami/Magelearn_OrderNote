@@ -1,5 +1,6 @@
 # Magelearn_OrderNote
-Add Order note textarea field to Magento one step checkout and Add/edit note from admin with AJAX
+
+## Add Order note textarea field to Magento one step checkout and Add/edit note from admin with AJAX
 
 [![Checkout.png](https://i.postimg.cc/5tK8t8SH/Checkout.png)](https://postimg.cc/CZDRPBtY)
 
