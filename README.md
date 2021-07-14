@@ -7,6 +7,10 @@ Add Order note textarea field to Magento one step checkout and Add/edit note fro
 
 [![Screenshot-from-2021-07-14-14-44-17.png](https://i.postimg.cc/hGYM5kw3/Screenshot-from-2021-07-14-14-44-17.png)](https://postimg.cc/kVxxVp7x)
 
+[![Annotate-a-local-image-2.png](https://i.postimg.cc/wMSLgHH7/Annotate-a-local-image-2.png)](https://postimg.cc/D4P8P9ST)
+
+[![Annotate-a-local-image-3.png](https://i.postimg.cc/gJL35nFf/Annotate-a-local-image-3.png)](https://postimg.cc/tZy1nRg5)
+
 Referances:
 
 https://webkul.com/blog/adding-additional-variables-in-window-checkoutconfig-on-magento-2-checkout-page/
